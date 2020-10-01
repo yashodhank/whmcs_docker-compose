@@ -1,5 +1,5 @@
 # WHMCS docker-compose
-WHMCS Containerized - 
+WHMCS Containerized [WIP]
 - WHMCS
 - MariaDB optimized
 - Traefik 2 as SSL &amp; Reverse proxy
